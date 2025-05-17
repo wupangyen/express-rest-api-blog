@@ -16,5 +16,8 @@
     "url": "https://github.com/wupangyen/express-rest-api-blog/issues"
   },
   "homepage": "https://github.com/wupangyen/express-rest-api-blog#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
